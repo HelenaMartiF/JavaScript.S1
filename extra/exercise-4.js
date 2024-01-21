@@ -1,4 +1,6 @@
 
+/* Usa un bucle para sumar el total de las ventas (`sellCount`) de todos los productos. */
+
 const products = [
     {name: 'Gorra de rodilla', sellCount: 10},
     {name: 'Pantalón de pana', sellCount: 302},
